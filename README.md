@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I’m [SOURAV](https://github.com/souravio)👋
+
+- 👀 I’m interested in ... [NodeJS](https://nodejs.org/en)
+- 🌱 I’m currently learning ...[WebRTC](https://webrtc.org/)
+- 💞️ I’m looking to collaborate on ... [MongoDB](https://www.mongodb.com) [ExpressJS](https://github.com/expressjs/express) [ReactJS](https://react.dev) [NodeJS](https://nodejs.org/en)
+- 📫 How to reach me ... [SOURAV](https://github.com/souravio)
+
 
 <!--
 **SOURAVIO/SOURAVIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
