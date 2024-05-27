@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315hpfhiv6oiqbiqk3ta2m55a62e&count=5)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315hpfhiv6oiqbiqk3ta2m55a62e&width=1000)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315hpfhiv6oiqbiqk3ta2m55a62e&unique=1)
